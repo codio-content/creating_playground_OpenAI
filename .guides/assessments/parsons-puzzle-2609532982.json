@@ -1,0 +1,38 @@
+{
+	"source": {
+		"bloomsObjectiveLevel": "",
+		"grader": "1",
+		"guidance": "",
+		"initial": "classify by country of origin: Ford, Toyota, Kia, Ferrari\nFord\nCountry - \nclassify: Ford, Toyota, Kia, Ferrari#distractor\nPeugot#distractor\nCountry: #distractor",
+		"instructions": "**Create a GPT-3 prompt and pattern that produces the following output:**\n\n```markdown-hide-clipboard\nFord\nCountry - \nUnited States\n\nToyota\nCountry -  Japan\n\nKia\nCountry -  South Korea\n\nFerrari\nCountry -  Italy\n```\n\n**Drag the appropriate code blocks into the box below. ++Hint:++ not all of the code blocks will be used.**",
+		"learningObjectives": "",
+		"maxAttemptsCount": 0,
+		"metadata": {
+			"files": [
+				"box.txt"
+			],
+			"opened": [
+				{
+					"content": "box.txt",
+					"panelNumber": 0,
+					"type": "file"
+				}
+			],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Parsons Puzzle"
+				}
+			]
+		},
+		"name": "classification",
+		"options": "{\"sortableId\":\"sortable\",\"max_wrong_lines\":10,\"exec_limit\":2500,\"can_indent\":true,\"x_indent\":50,\"lang\":\"en\",\"show_feedback\":true,\"trashId\":\"sortableTrash\"}",
+		"points": 20,
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"showName": false
+	},
+	"taskId": "parsons-puzzle-2609532982",
+	"type": "parsons-puzzle"
+}

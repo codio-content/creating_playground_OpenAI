@@ -1,0 +1,62 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-766604418",
+	"source": {
+		"name": "Page Comprehension",
+		"showName": false,
+		"instructions": "**What is the primary goal of this lesson?**",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "87d0a582-87aa-47e5-26e3-9857d9ff5eba",
+				"correct": false,
+				"answer": "To use GPT-3 to generate a blog post about a pizza shop.\n\n"
+			},
+			{
+				"_id": "8cb0b822-f394-e90e-dd00-351622bc246d",
+				"correct": true,
+				"answer": "To create a text file that allows users to input whatever they want as a prompt for the GPT-3 API."
+			},
+			{
+				"_id": "dd636e47-5fe1-0263-f4b0-0d003fbe05cc",
+				"correct": false,
+				"answer": "To use the GPT-3 API to classify items into categories."
+			},
+			{
+				"_id": "7b242f7d-b606-3120-010b-34b97555e047",
+				"correct": false,
+				"answer": "To automate the process of summarizing long articles with GPT-3."
+			}
+		],
+		"guidance": " In this lesson, the primary goal is to recreate the box, which means building a text file that can interface with the GPT-3 API. The user should be able to input any prompt they want in this text file, and GPT-3 will then generate a response based on this prompt. This goal is to create a user-friendly program that can be easily utilized for various tasks, such as generating natural language text, automating customer support tasks, generating technical documentation, and more.",
+		"showGuidanceAfterResponseOption": {
+			"type": "Attempts",
+			"passedFrom": 2
+		},
+		"maxAttemptsCount": 0,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [
+				"box.txt"
+			],
+			"opened": [
+				{
+					"type": "file",
+					"content": "box.txt"
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

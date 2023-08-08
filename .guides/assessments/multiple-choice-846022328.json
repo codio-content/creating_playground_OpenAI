@@ -1,0 +1,55 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-846022328",
+	"source": {
+		"name": "Common use case for GPT-3",
+		"showName": false,
+		"instructions": "Which of the following is NOT a common use case for GPT-3?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "c8719618-2b37-9c0a-3bfa-7753916c4bd5",
+				"correct": false,
+				"answer": "Generating natural language text for a given topic"
+			},
+			{
+				"_id": "2792d41e-1e3b-34ea-a62f-1924e16b1cdd",
+				"correct": false,
+				"answer": "Automating customer support tasks such as FAQs and customer service emails"
+			},
+			{
+				"_id": "86618db3-2f68-12c1-60b5-954a97ec2403",
+				"correct": true,
+				"answer": "Solving complex mathematical problems"
+			},
+			{
+				"_id": "59df7582-7f73-ac08-355a-da171ea8e4e9",
+				"correct": false,
+				"answer": "Generating lyrics for songs and poems"
+			}
+		],
+		"guidance": " GPT-3 is primarily a natural language processing AI and does not specialize in solving complex mathematical problems. Its main uses involve tasks related to generating and understanding human language.",
+		"showGuidanceAfterResponseOption": {
+			"type": "Attempts",
+			"passedFrom": 2
+		},
+		"maxAttemptsCount": 0,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

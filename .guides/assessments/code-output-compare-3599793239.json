@@ -1,0 +1,60 @@
+{
+	"type": "code-output-compare",
+	"taskId": "code-output-compare-3599793239",
+	"source": {
+		"name": "function test",
+		"showName": false,
+		"instructions": "When ready to submit, please click the button below:",
+		"command": "python exrcTest.py",
+		"preExecuteCommand": "",
+		"options": {
+			"timeout": 30,
+			"ignoreCase": true,
+			"ignoreWhitespaces": true,
+			"ignoreNewline": true,
+			"matchSubstring": true
+		},
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 0,
+		"points": 20,
+		"showExpectedAnswer": true,
+		"arePartialPointsAllowed": false,
+		"sequence": [
+			{
+				"arguments": "",
+				"input": "",
+				"output": "Test 1 passed: A joke has been written to the file.\nTest 2 passed: The file has been cleared.\nNice Job, it works!\n",
+				"showFeedback": false,
+				"feedback": ""
+			}
+		],
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Standard Code Test"
+				}
+			],
+			"files": [
+				"playground.py",
+				"playground.txt"
+			],
+			"opened": [
+				{
+					"type": "file",
+					"content": "playground.py"
+				},
+				{
+					"type": "file",
+					"panelNumber": 1,
+					"content": "playground.txt"
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

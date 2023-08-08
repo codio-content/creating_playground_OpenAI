@@ -1,0 +1,18 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "markdown",
+	"files": [
+		{
+			"path": "box.txt",
+			"action": "open"
+		}
+	],
+	"id": "24d89baa-08d0-68ed-de95-c03d962502a3",
+	"learningObjectives": "",
+	"path": [],
+	"teacherOnly": false,
+	"title": "Sample Playground",
+	"type": "page",
+	"layout": "2-panels"
+}

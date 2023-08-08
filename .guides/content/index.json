@@ -1,0 +1,23 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"Learning-objectives-f0a9",
+		"Chat-GPT-3-b438",
+		"Sample-Playground-24d8",
+		"Response-79c5",
+		"Using-Our-Box-57d3",
+		"Coding-Exercise-e89d"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": true,
+	"theme": "light",
+	"title": "Playground ",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

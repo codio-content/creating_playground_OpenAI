@@ -1,0 +1,68 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2774471357",
+	"source": {
+		"name": "Python Check",
+		"showName": false,
+		"instructions": "What is the purpose of opening a file in `write` mode in Python?\n\n",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "c4e49b37-39d1-bb54-1e87-e4cd0e53cb97",
+				"correct": false,
+				"answer": "To read the file"
+			},
+			{
+				"_id": "fbecb94e-424c-4c8a-f8d5-b23587539a4c",
+				"correct": false,
+				"answer": "To add new content to the end of the file"
+			},
+			{
+				"_id": "8bfb3286-8751-399b-726d-70de698731a3",
+				"correct": true,
+				"answer": "To clear the content of the file\n"
+			},
+			{
+				"_id": "dbccf546-c721-4f33-95a9-718d9af56088",
+				"correct": false,
+				"answer": " None of the above"
+			}
+		],
+		"guidance": "The purpose of opening a file in \"write\" mode in Python is to write data to the file. If the file does not exist, it will be created. If the file does exist, its contents will be overwritten.\n\n",
+		"showGuidanceAfterResponseOption": {
+			"type": "Attempts",
+			"passedFrom": 2
+		},
+		"maxAttemptsCount": 0,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [
+				"playground.py",
+				"playground.txt"
+			],
+			"opened": [
+				{
+					"type": "file",
+					"content": "playground.py"
+				},
+				{
+					"type": "file",
+					"panelNumber": 1,
+					"content": "playground.txt"
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

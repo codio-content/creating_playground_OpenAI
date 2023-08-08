@@ -1,0 +1,27 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "markdown",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		},
+		{
+			"path": "playground.py",
+			"action": "open"
+		},
+		{
+			"path": "playground.txt",
+			"panel": 1,
+			"action": "open"
+		}
+	],
+	"id": "79c5f75c-1600-f3aa-a5e4-6017e646278e",
+	"learningObjectives": "",
+	"path": [],
+	"teacherOnly": false,
+	"title": "Response",
+	"type": "page",
+	"layout": "3-cell"
+}
